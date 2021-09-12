@@ -5,8 +5,7 @@
 ## Lightweight HTTP Server
 
 [http-server](https://www.npmjs.com/package/http-server) is very light HTTP server to serve static content. This container runs on port 8080.
-
-
+You can find my ready to use container image in [my public Docker Hub repository](https://hub.docker.com/r/fitraalim/http-server).
 
 ## Usage
 
