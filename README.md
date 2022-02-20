@@ -14,7 +14,7 @@ If you use React, for example, copy your build package output directory (usually
 
 ```
 # Stage 1
-FROM node:14.17.6-stretch-slim AS build-step
+FROM node:fermium-alpine3.12 AS build-step
 RUN mkdir -p /app
 WORKDIR /app
 COPY package.json .
@@ -32,7 +32,7 @@ For testing, you can `COPY` single `index.html` to `/public` directory in the co
 
 ```
 # Stage 1
-FROM node:14.17.6-stretch-slim AS build-step
+FROM node:fermium-alpine3.12 AS build-step
 RUN mkdir -p /app
 WORKDIR /app
 COPY package.json .
