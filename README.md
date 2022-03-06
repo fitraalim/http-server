@@ -1,6 +1,6 @@
 # http-server
 
-[![Docker Repository on Quay](https://quay.io/repository/fitraalim/http-server/status "Docker Repository on Quay")](https://quay.io/repository/fitraalim/http-server) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fitraalim/http-server/master?style=for-the-badge)
+[![Docker Repository on Quay](https://quay.io/repository/fitraalim/http-server/status "Docker Repository on Quay")](https://quay.io/repository/fitraalim/http-server)
 
 ## Lightweight HTTP Server
 
