@@ -1,11 +1,11 @@
 # http-server
 
-![CircleCI](https://img.shields.io/circleci/build/github/fitraalim/http-server/master?style=for-the-badge) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/fitraalim/http-server/latest?style=for-the-badge)  ![Docker Pulls](https://img.shields.io/docker/pulls/fitraalim/http-server?style=for-the-badge) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fitraalim/http-server/master?style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fitraalim/http-server/master?style=for-the-badge)
 
 ## Lightweight HTTP Server
 
 [http-server](https://www.npmjs.com/package/http-server) is very light HTTP server to serve static content. This container runs on port 8080.
-You can find my ready to use container image in [my public Docker Hub repository](https://hub.docker.com/r/fitraalim/http-server).
+You can find my ready to use container image in [my public Quay repository](https://quay.io/repository/fitraalim/http-server).
 
 ## Usage
 
